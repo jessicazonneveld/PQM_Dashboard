@@ -44,6 +44,7 @@ Here outlines the IMPORTANT contents within folders NpWeb and NpFast (all other 
         sample-data             # holds any data in the form of .json to test with
         combined_logo.png       # compnay logo
         favicon.png             # supplied icon in web tab (changed to company logo)
+        appsettings.json        # directs what server you are working on 
 
     _Imports.razor              # includes what packages Blazor is using
     App.razor                   # routes the data to a functioning web application
@@ -60,3 +61,10 @@ Here outlines the IMPORTANT contents within folders NpWeb and NpFast (all other 
     Original domain: https://localhost:7124/
 
     New domain: https://localhost:7124/weather
+
+!!! danger 
+    For appsettings.json:
+
+    When sending off for deployment (Max), have this only this line uncommented: "https://sbnswts45.services.local:8005/"
+    
+    When editing on local host, have this only this line uncommented: "http://localhost:8000"
