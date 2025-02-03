@@ -42,7 +42,7 @@ To start editing the web application open:
 * `git add .
 * `git status - see what is being added
 * `git commit -m 'Initial commit'
-* `git remote add origin https://github.com/jessicazonneveld/PQM_Dashboard.git
+* `git remote add origin https://github.com/jessicazonneveld/PQM_Dashboard.git < don't always need this steo
 * `git push origin master    OR    git push origin main -->
 
 
