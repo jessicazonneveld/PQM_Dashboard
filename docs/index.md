@@ -38,10 +38,11 @@ To start editing the web application open:
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit. 
-* `git init - push or pull to github...
+* `git init - push to github...
 * `git add .
-* `git status 
+* `git status - see what is being added
 * `git commit -m 'Initial commit'
-* `git remote add origin git remote add origin https://github.com/jessicazonneveld/PQM_Dashboard.git-->
+* `git remote add origin https://github.com/jessicazonneveld/PQM_Dashboard.git
+* `git push origin master    OR    git push origin main -->
 
 
