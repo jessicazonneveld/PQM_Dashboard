@@ -2,7 +2,7 @@
 
 Follows the same layout as `app.py`
 
-```c#
+```c
 ///Energex
 # gets monitor information from energex excel spreadsheet
 public async Task<SiteNetworkData> GetTestCardAsync(string site)
