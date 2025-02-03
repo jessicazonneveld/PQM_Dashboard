@@ -25,6 +25,13 @@ theme:
       primary: deep purple
       accent: blue
 
+nav:
+  - index.md
+  - project-layout.md
+  - testing.md
+  - app.py.md
+  - myapiservice.cs.md
+
 plugins:
   # - glightbox
   - search
